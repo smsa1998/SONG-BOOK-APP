@@ -1,0 +1,12 @@
+<?xml verson ='1.0' encoding ='UTF-8' ?>
+<widget
+     android-versionCode ='1'
+     id ='com.Revival Centers Church Morobe Zone.SONG BOOK APP'
+     verson = '1.0.0'
+     xmlns='https://www.w3.org/ns/widgets'>
+
+     <name>SONG BOOK APP</name>
+     <description>2 software SONG BOOK APP</describtion>
+     <author>Revival Centers Church Morobe Zone</author>
+     <preference name = 'orientation' value = 'portrait'/>
+     </widget>

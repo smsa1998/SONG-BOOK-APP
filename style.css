@@ -1,0 +1,7 @@
+button{background-color:gold;
+       display: inline-block;padding: 3px 30px 5px 30px;
+       border-radius: 10px;border: solid 1px blueviolet;
+       box-shadow: rgba(107, 186, 189, 0.89);}
+button:hover{background-color:rgba(129, 160, 45, 0.904);}
+
+
